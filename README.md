@@ -1,4 +1,5 @@
 # IT Help Desk Power BI Dashboard
+
 This project analyzes IT help desk issue data to evaluate service demand, resolution efficiency, and operational bottlenecks using Power BI.
 
 ![Dashboard Overview](IT_HelpDesk_Dashboard_Overview.png)
@@ -8,7 +9,7 @@ This project analyzes IT help desk issue data to evaluate service demand, resolu
 Designed as an executive-level dashboard for IT Services leadership to monitor issue trends, resolution performance, and process efficiency.
 
 ## Dashboard Features
-- Interactive Power BI dashboard with slicers for year and priority to explore trends and performance metrics dynamically.
+Interactive Power BI dashboard with slicers for year and priority to explore trends and performance metrics dynamically.
 
 ## 🔍 Key Questions Answered
 - How does issue volume change over time?
