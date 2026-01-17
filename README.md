@@ -2,7 +2,7 @@
 
 This project analyzes IT help desk issue data to evaluate service demand, resolution efficiency, and operational bottlenecks using Power BI.
 
-![Dashboard Overview](IT_HelpDesk_Dashboard_Overview.png)
+![Dashboard Overview](IT-Desk-Performance-Dashboard-Overview.png)
 
 
 ## Project Context
