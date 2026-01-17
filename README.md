@@ -18,7 +18,7 @@ Designed as an executive-level dashboard for IT Services leadership to monitor i
 - Power Query
 - DAX
 
-## 📈 Key Outcomes
+## 📈 Key Takeaways
 - Issue intake shows seasonal fluctuations in issue volume.
 - Closure rates remain consistently high, indicating capacity alignment during lower-intake periods.
 - Medium-priority issues exhibit longer resolution times, suggesting optimization opportunities.
